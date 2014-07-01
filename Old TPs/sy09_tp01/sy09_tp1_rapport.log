@@ -1,0 +1,742 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.3)  4 APR 2014 00:56
+entering extended mode
+**E:/Cours/Sy09/R/sy09_tp01/sy09_tp1_rapport.tex
+(E:/Cours/Sy09/R/sy09_tp01/sy09_tp1_rapport.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count87
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks20
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen113
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen114
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks22
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks23
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks24
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+
+LaTeX Warning: Unused global option(s):
+    [9pt].
+
+(E:\Cours\Sy09\R\sy09_tp01\sy09_tp1_rapport.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen122
+\scratchbox=\box28
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen123
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks27
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 15.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 15.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 15.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 22--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--54
+
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<plots/boxplot_bwt_smoke.png, id=11, 481.8pt x 481.8pt>
+File: plots/boxplot_bwt_smoke.png Graphic file (type png)
+
+<use plots/boxplot_bwt_smoke.png>
+Package pdftex.def Info: plots/boxplot_bwt_smoke.png used on input line 56.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--62
+
+ []
+
+[2 <E:/Cours/Sy09/R/sy09_tp01/plots/boxplot_bwt_smoke.png>]
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+<plots/boxplot_gestation_smoke.png, id=16, 481.8pt x 481.8pt>
+File: plots/boxplot_gestation_smoke.png Graphic file (type png)
+
+<use plots/boxplot_gestation_smoke.png>
+Package pdftex.def Info: plots/boxplot_gestation_smoke.png used on input line 8
+7.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--93
+
+ []
+
+[3 <E:/Cours/Sy09/R/sy09_tp01/plots/boxplot_gestation_smoke.png>]
+<plots/barplot_etude_smoke.png, id=21, 481.8pt x 481.8pt>
+File: plots/barplot_etude_smoke.png Graphic file (type png)
+
+<use plots/barplot_etude_smoke.png>
+Package pdftex.def Info: plots/barplot_etude_smoke.png used on input line 112.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--124
+
+ []
+
+[4 <E:/Cours/Sy09/R/sy09_tp01/plots/barplot_etude_smoke.png>]
+<plots/plot_crabsquant_sp.png, id=27, 481.8pt x 481.8pt>
+File: plots/plot_crabsquant_sp.png Graphic file (type png)
+
+<use plots/plot_crabsquant_sp.png>
+Package pdftex.def Info: plots/plot_crabsquant_sp.png used on input line 133.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+<plots/plot_crabsquant_sex.png, id=28, 481.8pt x 481.8pt>
+File: plots/plot_crabsquant_sex.png Graphic file (type png)
+
+<use plots/plot_crabsquant_sex.png>
+Package pdftex.def Info: plots/plot_crabsquant_sex.png used on input line 134.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+<plots/boxplot_rw_espece.png, id=29, 481.8pt x 481.8pt>
+File: plots/boxplot_rw_espece.png Graphic file (type png)
+
+<use plots/boxplot_rw_espece.png>
+Package pdftex.def Info: plots/boxplot_rw_espece.png used on input line 138.
+(pdftex.def)             Requested size: 85.35284pt x 113.81114pt.
+
+<plots/boxplot_bd_espece.png, id=30, 481.8pt x 481.8pt>
+File: plots/boxplot_bd_espece.png Graphic file (type png)
+
+<use plots/boxplot_bd_espece.png>
+Package pdftex.def Info: plots/boxplot_bd_espece.png used on input line 139.
+(pdftex.def)             Requested size: 85.35284pt x 113.81114pt.
+
+<plots/boxplot_cl_espece.png, id=31, 481.8pt x 481.8pt>
+File: plots/boxplot_cl_espece.png Graphic file (type png)
+
+<use plots/boxplot_cl_espece.png>
+Package pdftex.def Info: plots/boxplot_cl_espece.png used on input line 140.
+(pdftex.def)             Requested size: 85.35284pt x 113.81114pt.
+
+<plots/boxplot_cw_espece.png, id=32, 481.8pt x 481.8pt>
+File: plots/boxplot_cw_espece.png Graphic file (type png)
+
+<use plots/boxplot_cw_espece.png>
+Package pdftex.def Info: plots/boxplot_cw_espece.png used on input line 141.
+(pdftex.def)             Requested size: 85.35284pt x 113.81114pt.
+
+<plots/boxplot_fl_espece.png, id=33, 481.8pt x 481.8pt>
+File: plots/boxplot_fl_espece.png Graphic file (type png)
+
+<use plots/boxplot_fl_espece.png>
+Package pdftex.def Info: plots/boxplot_fl_espece.png used on input line 142.
+(pdftex.def)             Requested size: 85.35284pt x 113.81114pt.
+
+<plots/boxplot_rw_sexe.png, id=34, 481.8pt x 481.8pt>
+File: plots/boxplot_rw_sexe.png Graphic file (type png)
+
+<use plots/boxplot_rw_sexe.png>
+Package pdftex.def Info: plots/boxplot_rw_sexe.png used on input line 145.
+(pdftex.def)             Requested size: 85.35284pt x 113.81114pt.
+
+<plots/boxplot_bd_sexe.png, id=35, 481.8pt x 481.8pt>
+File: plots/boxplot_bd_sexe.png Graphic file (type png)
+
+<use plots/boxplot_bd_sexe.png>
+Package pdftex.def Info: plots/boxplot_bd_sexe.png used on input line 146.
+(pdftex.def)             Requested size: 85.35284pt x 113.81114pt.
+
+<plots/boxplot_cl_sexe.png, id=36, 481.8pt x 481.8pt>
+File: plots/boxplot_cl_sexe.png Graphic file (type png)
+
+<use plots/boxplot_cl_sexe.png>
+Package pdftex.def Info: plots/boxplot_cl_sexe.png used on input line 147.
+(pdftex.def)             Requested size: 85.35284pt x 113.81114pt.
+
+<plots/boxplot_cw_sexe.png, id=37, 481.8pt x 481.8pt>
+File: plots/boxplot_cw_sexe.png Graphic file (type png)
+
+<use plots/boxplot_cw_sexe.png>
+Package pdftex.def Info: plots/boxplot_cw_sexe.png used on input line 148.
+(pdftex.def)             Requested size: 85.35284pt x 113.81114pt.
+
+<plots/boxplot_fl_sexe.png, id=38, 481.8pt x 481.8pt>
+File: plots/boxplot_fl_sexe.png Graphic file (type png)
+
+<use plots/boxplot_fl_sexe.png>
+Package pdftex.def Info: plots/boxplot_fl_sexe.png used on input line 149.
+(pdftex.def)             Requested size: 85.35284pt x 113.81114pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--171
+
+ []
+
+
+Overfull \hbox (39.2131pt too wide) in paragraph at lines 127--171
+[] [] 
+ []
+
+
+Overfull \hbox (17.3994pt too wide) in paragraph at lines 127--171
+[] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--171
+
+ []
+
+
+Overfull \hbox (17.3994pt too wide) in paragraph at lines 127--171
+[] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--171
+
+ []
+
+
+Overfull \hbox (2.97322pt too wide) in paragraph at lines 127--171
+\OT1/cmr/bx/n/10 traite-ment est-il pos-si-ble d'appliquer aux donnees pour s'
+affranchir de ce phenomene?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--171
+
+ []
+
+[5 <E:/Cours/Sy09/R/sy09_tp01/plots/plot_crabsquant_sp.png> <E:/Cours/Sy09/R/sy
+09_tp01/plots/plot_crabsquant_sex.png> <E:/Cours/Sy09/R/sy09_tp01/plots/boxplot
+_rw_espece.png> <E:/Cours/Sy09/R/sy09_tp01/plots/boxplot_bd_espece.png> <E:/Cou
+rs/Sy09/R/sy09_tp01/plots/boxplot_cl_espece.png> <E:/Cours/Sy09/R/sy09_tp01/plo
+ts/boxplot_cw_espece.png> <E:/Cours/Sy09/R/sy09_tp01/plots/boxplot_fl_espece.pn
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 172--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--174
+
+ []
+
+[6 <E:/Cours/Sy09/R/sy09_tp01/plots/boxplot_rw_sexe.png> <E:/Cours/Sy09/R/sy09_
+tp01/plots/boxplot_bd_sexe.png> <E:/Cours/Sy09/R/sy09_tp01/plots/boxplot_cl_sex
+e.png> <E:/Cours/Sy09/R/sy09_tp01/plots/boxplot_cw_sexe.png> <E:/Cours/Sy09/R/s
+y09_tp01/plots/boxplot_fl_sexe.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 208--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--224
+
+ []
+
+<plots/plot_composantes_principales.png, id=57, 481.8pt x 481.8pt>
+File: plots/plot_composantes_principales.png Graphic file (type png)
+
+<use plots/plot_composantes_principales.png>
+Package pdftex.def Info: plots/plot_composantes_principales.png used on input l
+ine 231.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--237
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--237
+
+ []
+
+[7] <plots/plot_correlation.png, id=65, 481.8pt x 481.8pt>
+File: plots/plot_correlation.png Graphic file (type png)
+
+<use plots/plot_correlation.png>
+Package pdftex.def Info: plots/plot_correlation.png used on input line 243.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--266
+
+ []
+
+[8 <E:/Cours/Sy09/R/sy09_tp01/plots/plot_composantes_principales.png>] [9 <E:/C
+ours/Sy09/R/sy09_tp01/plots/plot_correlation.png>]
+<plots/plot_acp_notes.png, id=78, 481.8pt x 481.8pt>
+File: plots/plot_acp_notes.png Graphic file (type png)
+
+<use plots/plot_acp_notes.png>
+Package pdftex.def Info: plots/plot_acp_notes.png used on input line 278.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+<plots/plot_correlation_notes.png, id=79, 481.8pt x 481.8pt>
+File: plots/plot_correlation_notes.png Graphic file (type png)
+
+<use plots/plot_correlation_notes.png>
+Package pdftex.def Info: plots/plot_correlation_notes.png used on input line 27
+9.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+<plots/plot_correlation_notes_2.png, id=80, 481.8pt x 481.8pt>
+File: plots/plot_correlation_notes_2.png Graphic file (type png)
+
+<use plots/plot_correlation_notes_2.png>
+Package pdftex.def Info: plots/plot_correlation_notes_2.png used on input line 
+280.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--295
+
+ []
+
+
+Overfull \hbox (39.2131pt too wide) in paragraph at lines 272--295
+[] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--295
+
+ []
+
+[10 <E:/Cours/Sy09/R/sy09_tp01/plots/plot_acp_notes.png> <E:/Cours/Sy09/R/sy09_
+tp01/plots/plot_correlation_notes.png> <E:/Cours/Sy09/R/sy09_tp01/plots/plot_co
+rrelation_notes_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 298--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
+
+ []
+
+<plots/biplot_acp2_crabs.png, id=88, 481.8pt x 481.8pt>
+File: plots/biplot_acp2_crabs.png Graphic file (type png)
+
+<use plots/biplot_acp2_crabs.png>
+Package pdftex.def Info: plots/biplot_acp2_crabs.png used on input line 304.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+<plots/plot_acp2_crabs.png, id=89, 481.8pt x 481.8pt>
+File: plots/plot_acp2_crabs.png Graphic file (type png)
+
+<use plots/plot_acp2_crabs.png>
+Package pdftex.def Info: plots/plot_acp2_crabs.png used on input line 305.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+Overfull \hbox (54.2131pt too wide) in paragraph at lines 304--308
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--308
+
+ []
+
+[11 <E:/Cours/Sy09/R/sy09_tp01/plots/biplot_acp2_crabs.png (PNG copy)> <E:/Cour
+s/Sy09/R/sy09_tp01/plots/plot_acp2_crabs.png>] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 309--313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--313
+
+ []
+
+<plots/plot_crabs_sp_2.png, id=97, 481.8pt x 481.8pt>
+File: plots/plot_crabs_sp_2.png Graphic file (type png)
+
+<use plots/plot_crabs_sp_2.png>
+Package pdftex.def Info: plots/plot_crabs_sp_2.png used on input line 315.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+<plots/plot_crabs_sex_2.png, id=98, 481.8pt x 481.8pt>
+File: plots/plot_crabs_sex_2.png Graphic file (type png)
+
+<use plots/plot_crabs_sex_2.png>
+Package pdftex.def Info: plots/plot_crabs_sex_2.png used on input line 316.
+(pdftex.def)             Requested size: 227.62228pt x 227.62228pt.
+
+Overfull \hbox (39.2131pt too wide) in paragraph at lines 315--317
+[][] [] 
+ []
+
+[13 <E:/Cours/Sy09/R/sy09_tp01/plots/plot_crabs_sp_2.png> <E:/Cours/Sy09/R/sy09
+_tp01/plots/plot_crabs_sex_2.png>]
+(E:\Cours\Sy09\R\sy09_tp01\sy09_tp1_rapport.aux) ) 
+Here is how much of TeX's memory you used:
+ 3693 strings out of 493921
+ 49913 string characters out of 3144886
+ 110833 words of memory out of 3000000
+ 6913 multiletter control sequences out of 15000+200000
+ 14169 words of font info for 56 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,8n,26p,363b,478s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsl10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmti10.pfb>
+Output written on sy09_tp1_rapport.pdf (13 pages, 333264 bytes).
+PDF statistics:
+ 152 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+
